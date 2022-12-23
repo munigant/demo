@@ -57,5 +57,8 @@
     "transformModules": [
       "@asyncapi/react-component"
     ]
+  },
+  "dependencies": {
+    "node": "^16.16.0"
   }
 }
